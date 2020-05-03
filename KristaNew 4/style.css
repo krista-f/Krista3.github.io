@@ -1,0 +1,12 @@
+<style type="text/css">
+body {
+  background-color: #ffefd5;}
+  @media screen and (max-width: 960px) { body {
+  background-color: #faf0e6;
+    } }
+  @media screen and (max-width: 768px) { body {
+  background-color: #eedfcc;
+  } }
+  @media screen and (max-width: 550px) { body {
+    background-color: #faebd7;
+    } }
